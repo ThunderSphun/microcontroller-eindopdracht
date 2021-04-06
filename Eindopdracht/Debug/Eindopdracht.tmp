@@ -1,0 +1,44 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>D:\School\microcontrollers\Eindopdracht\Eindopdracht\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\Debug\Eindopdracht.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Eindopdracht.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Eindopdracht.map</FILE>
+  <FILE>Eindopdracht.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>65</LINE></start>
+  <second_add><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>189</LINE></second_add>
+  <second_sub><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>196</LINE></second_sub>
+  <minute_add><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>203</LINE></minute_add>
+  <minute_sub><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>210</LINE></minute_sub>
+  <hour_add><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>217</LINE></hour_add>
+  <hour_sub><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>224</LINE></hour_sub>
+  <increment_timer><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>146</LINE></increment_timer>
+  <init><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>82</LINE></init>
+  <main><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>135</LINE></main>
+  <infinite_loop><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>143</LINE></infinite_loop>
+  <mainloop><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>136</LINE></mainloop>
+  <test_milliseconds><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>149</LINE></test_milliseconds>
+  <test_seconds><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>156</LINE></test_seconds>
+  <test_minutes><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>166</LINE></test_minutes>
+  <test_hours><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>173</LINE></test_hours>
+  <test_days><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>180</LINE></test_days>
+  <isr_return><FILE>D:\School\microcontrollers\Eindopdracht\Eindopdracht\main.asm</FILE><LINE>186</LINE></isr_return>
+ </LABELS>
+</ASSEMBLER_INFO>
